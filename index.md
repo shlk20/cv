@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kai Liu's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kai Liu
+Fullstack / Mobile Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="shlk820@gmail.com">shlk820@gmail.com</a>
+| <a href="http://www.kaajaa.com/index-CN.html">中文简历</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Freelancer, mainly working on an image stock company, based on Shanghai, as a full-stack develper, responible for developing WEB applications.
 
-### Specialized in
+### Technical Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Extensive experience in`
+__PHP, MySQL, JavaScript__
+
+`Capable of working with`
+__Go/Java/Swift/Dart, PostreSQL/Redis/MongoDB/Oracle, Jenkins__
 
 
-### Research interests
+## Professional Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2020 - now`
+__123RF__, Shanghai
+
+- Full-stack Develper (Part-time)
+
+`2019 - 2020`
+__Yuezan__, Shanghai
+
+- Dev Team Leader
+
+`2014 - 2017`
+__Shanghai Quanyin Information & technology__, Shanghai
+
+- Co-founder
+
+`2013 - 2014`
+__East Money__, Shanghai
+
+- PHP dev team leader
+
+`2009 - 2013`
+__Shanghai Radio-Arts Technology Co., Ltd__, Shanghai
+
+- PHP dev team leader
+
+`2006 - 2009`
+__Moliyo__, Shanghai
+
+- PHP develper
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2018`
+__Unitec Institute of Technology, Auckland, New Zealand.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Computing, Graduate Diploma
 
-- Sizar
+`2006 - 2009`
+__Shanghai Jiaotong University, Shanghai, China__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Software Engineering, Bachelor
 
-- Fellow
+`2003 - 2006`
+__Shanghai Business School, Shanghai, China__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- E-Commerce, Diploma
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2022 -->
 
 
