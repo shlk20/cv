@@ -6,7 +6,7 @@ title: Kai Liu's CV
 Fullstack / Mobile Developer.
 
 <div id="webaddress">
-<a href="shlk820@gmail.com">shlk820@gmail.com</a>
+<a href="mailto:shlk820@gmail.com">shlk820@gmail.com</a>
 | <a href="https://shlk20.github.io/cv/index-CN">中文简历</a>
 </div>
 

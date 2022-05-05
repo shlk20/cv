@@ -6,14 +6,14 @@ title: 刘凯的简历
 全栈、移动端开发.
 
 <div id="webaddress">
-<a href="shlk820@gmail.com">shlk820@gmail.com</a>
+<a href="mailto:shlk820@gmail.com">shlk820@gmail.com</a>
 | <a href="https://shlk20.github.io/cv/">English Version</a>
 </div>
 
 
 ## 当前状态
 
-自由职业，目前主要作为全栈开发的角色为一家位于上海的图库公司服务，负责开发Web应用。
+自由职业，主要作为全栈开发的角色为一家位于上海的图库公司服务，负责开发Web应用。
 
 ## 技术栈
 
@@ -31,7 +31,7 @@ __123RF__, 上海
 
 - 全栈开发 (兼职)
 - 负责开发及维护图库应用[123RF](https://123rf.com.cn){:target="_blank"}，[神笔Pro](https://vip.shenbipro.com){:target="_blank"}，[Printy9(建设中)](http://demo.printy9.com/){:target="_blank"}
-- 与远程技术团队（西安和广州）的配合工作
+- 与远程技术团队（西安和广州）配合工作
 - 所用技术：PHP, MySQL, Vue, Redis, ElasticSearch
 
 `2019 - 2020`
