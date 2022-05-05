@@ -7,15 +7,15 @@ Fullstack / Mobile Developer.
 
 <div id="webaddress">
 <a href="shlk820@gmail.com">shlk820@gmail.com</a>
-| <a href="http://www.kaajaa.com/index-CN.html">中文简历</a>
+| <a href="http://www.kaajaa.com/index-CN">中文简历</a>
 </div>
 
 
 ## Currently
 
-Freelancer, mainly working on an image stock company, based on Shanghai, as a full-stack develper, responible for developing WEB applications.
+Freelancer, mainly working on an image stock company, based on Shanghai, as a full-stack developer, responsible for developing WEB applications.
 
-### Technical Skills
+## Technical Skills
 
 `Extensive experience in`
 __PHP, MySQL, JavaScript__
