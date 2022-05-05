@@ -7,7 +7,7 @@ title: 刘凯的简历
 
 <div id="webaddress">
 <a href="shlk820@gmail.com">shlk820@gmail.com</a>
-| <a href="http://www.kaajaa.com">English Version</a>
+| <a href="https://shlk20.github.io/cv/">English Version</a>
 </div>
 
 
@@ -30,8 +30,8 @@ __Go/Java/Swift/Dart, PostreSQL/Redis/MongoDB/Oracle, Jenkins__
 __123RF__, 上海
 
 - 全栈开发 (兼职)
-- 负责开发及维护图库应用[123RF](https://123rf.com.cn)，[神笔Pro](https://vip.shenbipro.com)，[Printy9(建设中)](http://demo.printy9.com/)
-- 协调远程技术团队（西安和广州）的工作
+- 负责开发及维护图库应用[123RF](https://123rf.com.cn){:target="_blank"}，[神笔Pro](https://vip.shenbipro.com){:target="_blank"}，[Printy9(建设中)](http://demo.printy9.com/){:target="_blank"}
+- 与远程技术团队（西安和广州）的配合工作
 - 所用技术：PHP, MySQL, Vue, Redis, ElasticSearch
 
 `2019 - 2020`
@@ -47,8 +47,7 @@ __阅赞__, 上海
 __诠音科技__, 上海
 
 - 技术合伙人
-- 音乐教育项目创业团队，主要负责后端API的开发
-- 所用技术：PHP, MySQL, Redis
+- 音乐教育项目创业团队，主要负责系统架构设计、数据库设计和后端API开发
 
 `2013 - 2014`
 __东方财富__, 上海
