@@ -30,7 +30,7 @@ __Go/Java/Swift/Dart, PostreSQL/Redis/MongoDB/Oracle, Jenkins__
 __123RF__, Shanghai
 
 - Full-stack Develper (Part-time)
-- Building and maintaining WEB applications, including [123RF](https://123rf.com.cn){:target="_blank"}, [神笔Pro](https://vip.shenbipro.com){:target="_blank"}, [Printy9(in development)](http://demo.printy9.com/){:target="_blank"}
+- Building and maintaining WEB applications, including [123RF](https://123rf.com.cn){:target="_blank"}, [神笔Pro](https://vip.shenbipro.com){:target="_blank"}, [Printy9(under development)](http://demo.printy9.com/){:target="_blank"}
 - Collaborate with the remote dev team to bear on various challenges
 - PHP, MySQL, Vue, Redis, ElasticSearch
 
