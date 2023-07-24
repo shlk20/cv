@@ -2,7 +2,6 @@
 layout: default
 title: 刘凯的简历
 ---
-# 刘凯
 全栈、移动端开发.
 
 <div id="webaddress">
