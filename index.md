@@ -26,7 +26,14 @@ __Go/Java/Swift/Dart, PostreSQL/Redis/MongoDB/Oracle, Jenkins__
 
 ## Professional Experience
 
-`2020 - now`
+`2023 - now`
+__Cuihua AI__, Shanghai
+- Dev Team Leader
+- Responsible for designing the system structure, writing the detailed specification and database design
+- Building and maintaining WEB applications [CuihuaAi](https://cuihuaai.com){:target="_blank"}
+- Golang, MySQL, Vue3, Redis, MicroService
+
+`2020 - 2023`
 __123RF__, Shanghai
 
 - Full-stack Develper (Part-time)

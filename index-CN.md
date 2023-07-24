@@ -20,13 +20,20 @@ title: 刘凯的简历
 `精通`
 __PHP, MySQL, JavaScript__
 
-`熟悉`
+`熟练`
 __Go/Java/Swift/Dart, PostreSQL/Redis/MongoDB/Oracle, Jenkins__
 
 
 ## 工作经历
 
-`2020 - 至今`
+`2023 - 至今`
+__翠花AI__, 上海
+- 技术负责人
+- 负责整体架构的设计和实现
+- 负责开发及维护应用[翠花AI](https://cuihuaai.com){:target="_blank"}
+- 所用技术：Golang, MySQL, Vue3, Redis, MicroService
+
+`2020 - 2023`
 __123RF__, 上海
 
 - 全栈开发 (兼职)
