@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Kai Liu's CV
 ---
 # Kai Liu

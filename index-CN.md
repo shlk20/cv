@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: 刘凯的简历
 ---
 # 刘凯
